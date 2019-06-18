@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthokaka92%2Froot-tools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthokaka92%2Froot-tools?ref=badge_shield)
+
 RootTools·Neo
 =======================
 
@@ -52,3 +54,6 @@ RootTools·Neo
 ### 目前软件已不再更新，当前版本适配了 Android Q 以及 arm64-v8a。
 
 ## Good Luck!
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthokaka92%2Froot-tools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthokaka92%2Froot-tools?ref=badge_large)
